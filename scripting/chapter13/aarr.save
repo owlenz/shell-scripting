@@ -1,0 +1,1 @@
+declare -A aarr=([second]="2" ["three hunnid"]="300" [test]="10" )
